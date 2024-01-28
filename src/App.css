@@ -85,6 +85,7 @@ input::placeholder {
 
 .board .message {
   margin-bottom: 30px;
+  list-style: none;
 }
 
 .delete-button {
